@@ -1,1 +1,5 @@
 name: Python Hello World Workflow
+on:
+  push:
+    branches:
+      - main
