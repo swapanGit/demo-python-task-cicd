@@ -3,7 +3,7 @@ name: Python Hello World Workflow
 on:
   push:
     branches:
-      - feature002
+      - feature*
 
 jobs:
   build:
